@@ -1,0 +1,3 @@
+A tak wygląda po zapisaniuDodano kolejną linijkę
+Dodano kolejną linijkęcat.jpg,index.js,node_modules,npm-debug.log,package.json,tekst.txt
+cat.jpg,index.js,node_modules,package.json,tekst.txt
